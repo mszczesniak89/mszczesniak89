@@ -14,7 +14,7 @@
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Django" width="26px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" />
+<img align="left" alt="Flask" width="26px" src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
