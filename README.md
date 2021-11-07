@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mateusz Szczesniak | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mateusz Szczesniak | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Mateusz Szczesniak | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" alt="Mateusz Szczesniak | IMDb" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/IMDb_Logo_Square.svg" />][imdb]
 
