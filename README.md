@@ -1,6 +1,6 @@
 ## Hi there, I'm Mateusz!
 
-## Former film-industry professional, turned Python Developer
+### Former film-industry professional, turned Python Developer
 
 
 ### Connect with me:
