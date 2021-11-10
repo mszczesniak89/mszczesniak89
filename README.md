@@ -1,4 +1,4 @@
-### Hi there, I'm Mateusz!
+## Hi there, I'm Mateusz!
 
 ## Former film-industry professional, turned Python Developer
 
