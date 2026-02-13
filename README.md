@@ -28,4 +28,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-szczesniak-743b8632/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mszczesniak89/)
-[![IMDb](
+[![IMDb](https://img.shields.io/badge/IMDb-DBA506?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm4522975/)
