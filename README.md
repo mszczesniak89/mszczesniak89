@@ -1,37 +1,31 @@
-## Hi there, I'm Mateusz!
+# Hi there, I'm Mateusz! 👋
 
-### Former film-industry professional, turned Python Developer
-
-
-### Connect with me:
-
-[<img align="left" alt="Mateusz Szczesniak | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Mateusz Szczesniak | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" alt="Mateusz Szczesniak | IMDb" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/IMDb_Logo_Square.svg" />][imdb]
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="Django" width="26px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />
-<img align="left" alt="Flask" width="26px" src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="PSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png"/>
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+### 🎥 Former Film Industry Professional | 🐍 Python Developer
 
 ---
 
+### 🛠️ Tech Stack & Tools
 
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[instagram]: https://www.instagram.com/mszczesniak89/
-[linkedin]: https://www.linkedin.com/in/mateusz-szczesniak-743b8632/
-[imdb]: https://www.imdb.com/name/nm4522975/
+**Frontend & Databases**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Environment**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Terminal](https://img.shields.io/badge/terminal-%234D4D4D.svg?style=for-the-badge&logo=gnumetadatarepository&logoColor=white)
+
+---
+
+### 🤝 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-szczesniak-743b8632/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mszczesniak89/)
+[![IMDb](
